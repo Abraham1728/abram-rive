@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html >
+				<head>
+								<title >My hobby </title>
+				</head>
+				<body bgcolor ="white">
+								<img src="https://cdn.worldvectorlogo.com/logos/ars-2.svg" alt="imagen de mi logo" style="width:200px;height:100px;" align="right">
+								<font align="center" size="6" color="#9370D8"
+								 face="Comic Sans MS">
+												<b>MIS HOBIES
+								</font>
+								
+								<hr align="left" color="#E6E6FA" width ="100%" size="10 "><br>
+								
+							 <center>
+							 				<font color="#DDA0DD" size="7" face="Comic Sans MS"> 
+							 							<br>	canción
+							 						</font>
+							 					<br>
+							 					<br>
+							 					<embed src="http://www.sonidosmp3gratis.com/sounds/Crickets2.mp3" height="100"
+							 					width="300"> <br>
+							 					<font color="black"size="3"face="times new roman ">
+							 									<p><i>sonidos de grillos </i></p>
+							 									</font>
+							 </center>
+							 <br>
+							 <br>
+							 <br>
+							 
+							 <center>
+							 		 <font color="#DDA0DD" size="7" face="Comic Sans MS">  
+							 		 				<b>Video
+							 		 				</font><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHN9pGTJmVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>							 		 			</font >
+							 		 			 </center>
+								
+								<hr align="left" color="#E6E6FA" width ="100%" size="10 "><br>
+								
+								<font color="black">
+												<h3 align="right">Alumna:Rivera Santiago Abraham <br> Grupo:3°I </h3>
+								</font>
+								
+		
+</html>

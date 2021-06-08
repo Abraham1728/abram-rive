@@ -1,0 +1,40 @@
+h1[
+color:#9A2EFE;
+font=size: 50 px;
+]
+p[
+font=size: 20 px; 
+color:#424242;
+don-family:verdana,serif,times, georgia;
+text-align: justify;
+]
+
+.encabezado[
+background-color:#088A08
+color white;
+font=size: 15 px;
+paddin-left: 20 px;
+padding-right: 20 px;
+padding-top:20 px;
+padding-bottom: 20 px;
+]
+
+
+footer[
+background-color:#088A08
+]
+
+.lados[
+width: 70%;
+margin:0;auto;
+]
+
+footer[
+color white;
+font=size: 10 px;
+text-align:center;
+paddin-left: 20 px;
+padding-right: 20 px;
+padding-top:20 px;
+padding-bottom: 20 px;
+]
